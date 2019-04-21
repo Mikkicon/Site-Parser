@@ -2,295 +2,276 @@
     "ННІІДС": {
         "lessons": [
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
+                "name": "Інтернет-технології опрац кон ІР та їх Б",
+                "short_name": "Інтернет-технології опрац кон ІР та їх Б",
                 "lesson_time": "09:50 - 11:25",
                 "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вржесневський",
+                        "last_name": "Іванченко",
                         "first_name": "І",
-                        "middle_name": "І"
+                        "middle_name": "С"
                     }
                 ],
-                "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
+                "weeks": 1,
                 "housing": "11",
-                "room_num": "004",
+                "room_num": "003",
                 "room_floor": "0"
             },
             {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
+                "name": "Технології інформаційного менеджмент",
+                "short_name": "Технології інформаційного менеджмент",
+                "lesson_time": "11:40 - 13:15",
+                "day": 1,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
+                        "last_name": "Скворцов",
+                        "first_name": "С",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "420",
+                "room_floor": "4"
+            },
+            {
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "13:30 - 15:05",
+                "day": 1,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Бистрова",
+                        "first_name": "Б",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
+            },
+            {
+                "name": "Методологія та організація наук дослід",
+                "short_name": "Методологія та організація наук дослід",
+                "lesson_time": "08:00 - 09:35",
+                "day": 2,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Лозова",
+                        "first_name": "І",
+                        "middle_name": "Л"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "420",
+                "room_floor": "4"
+            },
+            {
+                "name": "Методологія та організація наук дослід",
+                "short_name": "Методологія та організація наук дослід",
+                "lesson_time": "09:50 - 11:25",
+                "day": 2,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Лозова",
+                        "first_name": "І",
+                        "middle_name": "Л"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "420",
+                "room_floor": "4"
+            },
+            {
+                "name": "Управління проектами",
+                "short_name": "Управління проектами",
+                "lesson_time": "13:30 - 15:05",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Вишневська",
+                        "first_name": "Н",
+                        "middle_name": "С"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "420",
+                "room_floor": "4"
+            },
+            {
+                "name": "Наукові комунікації у фаховій діяльності",
+                "short_name": "Наукові комунікації у фаховій діяльності",
+                "lesson_time": "15:20 - 16:55",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Красножон",
+                        "first_name": "Н",
+                        "middle_name": "Г"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
+            },
+            {
+                "name": "Технології підтримки прийняття рішень",
+                "short_name": "Технології підтримки прийняття рішень",
+                "lesson_time": "08:00 - 09:35",
+                "day": 5,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Лозова",
+                        "first_name": "І",
+                        "middle_name": "Л"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
+            },
+            {
+                "name": "Методологія та організація наук дослід",
+                "short_name": "Методологія та організація наук дослід",
+                "lesson_time": "09:50 - 11:25",
+                "day": 5,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Лозова",
+                        "first_name": "І",
+                        "middle_name": "Л"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
+            },
+            {
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "09:50 - 11:25",
+                "day": 7,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Бистрова",
+                        "first_name": "Б",
                         "middle_name": "В"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "room_num": "206",
+                "room_floor": "2"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 9,
+                "name": "Технології підтримки прийняття рішень",
+                "short_name": "Технології підтримки прийняття рішень",
+                "lesson_time": "11:40 - 13:15",
+                "day": 7,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Лозова",
+                        "first_name": "І",
+                        "middle_name": "Л"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "room_num": "420",
+                "room_floor": "4"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
+                "name": "Технології підтримки прийняття рішень",
+                "short_name": "Технології підтримки прийняття рішень",
+                "lesson_time": "13:30 - 15:05",
+                "day": 7,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Лозова",
+                        "first_name": "І",
+                        "middle_name": "Л"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "room_num": "420",
+                "room_floor": "4"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "11:40 - 13:15",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
+                "name": "Наукові комунікації у фаховій діяльності",
+                "short_name": "Наукові комунікації у фаховій діяльності",
                 "lesson_time": "13:30 - 15:05",
-                "day": 11,
+                "day": 8,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Красножон",
+                        "first_name": "Н",
+                        "middle_name": "Г"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
+            },
+            {
+                "name": "Інтернет-технології опрац кон ІР та їх Б",
+                "short_name": "Інтернет-технології опрац кон ІР та їх Б",
+                "lesson_time": "15:20 - 16:55",
+                "day": 8,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Іванченко",
+                        "first_name": "І",
+                        "middle_name": "С"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "419",
+                "room_floor": "4"
+            },
+            {
+                "name": "Управління проектами",
+                "short_name": "Управління проектами",
+                "lesson_time": "11:40 - 13:15",
+                "day": 9,
                 "format": "lecture",
                 "teachers": [
                     {
@@ -302,59 +283,79 @@
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "005",
+                "room_num": "003",
                 "room_floor": "0"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "15:20 - 16:55",
-                "day": 11,
+                "name": "Технології інформаційного менеджмент",
+                "short_name": "Технології інформаційного менеджмент",
+                "lesson_time": "13:30 - 15:05",
+                "day": 9,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Скворцов",
+                        "first_name": "С",
+                        "middle_name": "О"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
+                "room_num": "421",
+                "room_floor": "4"
+            },
+            {
+                "name": "Технології інформаційного менеджмент",
+                "short_name": "Технології інформаційного менеджмент",
+                "lesson_time": "09:50 - 11:25",
+                "day": 10,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Скворцов",
+                        "first_name": "С",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
+            },
+            {
+                "name": "Інтернет-технології опрац кон ІР та їх Б",
+                "short_name": "Інтернет-технології опрац кон ІР та їх Б",
+                "lesson_time": "11:40 - 13:15",
+                "day": 10,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Іванченко",
+                        "first_name": "І",
+                        "middle_name": "С"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "003",
+                "room_floor": "0"
             }
         ],
         "subgroups": "0",
         "teachers": [
             {
                 "degree": "",
-                "last_name": "Вржесневський",
+                "last_name": "Лозова",
                 "first_name": "І",
-                "middle_name": "І"
+                "middle_name": "Л"
             },
             {
                 "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
-                "middle_name": "В"
-            },
-            {
-                "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
-            },
-            {
-                "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
+                "last_name": "Скворцов",
+                "first_name": "С",
                 "middle_name": "О"
             },
             {
@@ -365,2240 +366,1568 @@
             },
             {
                 "degree": "",
-                "last_name": "Глоба",
-                "first_name": "С",
-                "middle_name": "О"
+                "last_name": "Красножон",
+                "first_name": "Н",
+                "middle_name": "Г"
+            },
+            {
+                "degree": "",
+                "last_name": "Іванченко",
+                "first_name": "І",
+                "middle_name": "С"
+            },
+            {
+                "degree": "",
+                "last_name": "Бистрова",
+                "first_name": "Б",
+                "middle_name": "В"
             }
         ]
     },
     "ННІАН": {
         "lessons": [
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
+                "name": "Моделювання безпілотних авіац систем",
+                "short_name": "Моделювання безпілотних авіац систем",
+                "lesson_time": "13:30 - 15:05",
                 "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "09:50 - 11:25",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вржесневський",
+                        "last_name": "Браун",
                         "first_name": "І",
-                        "middle_name": "І"
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "320",
+                "room_floor": "3"
+            },
+            {
+                "name": "Моделювання безпілотних авіац систем",
+                "short_name": "Моделювання безпілотних авіац систем",
+                "lesson_time": "15:20 - 16:55",
+                "day": 1,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "320",
+                "room_floor": "3"
+            },
+            {
+                "name": "Принципи імплем тех БАС у вир пр ГД",
+                "short_name": "Принципи імплем тех БАС у вир пр ГД",
+                "lesson_time": "08:00 - 09:35",
+                "day": 3,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "320",
+                "room_floor": "3"
+            },
+            {
+                "name": "Принципи імплем тех БАС у вир пр ГД",
+                "short_name": "Принципи імплем тех БАС у вир пр ГД",
+                "lesson_time": "09:50 - 11:25",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "320",
+                "room_floor": "3"
+            },
+            {
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "11:40 - 13:15",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Пазюра",
+                        "first_name": "Н",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "415",
+                "room_floor": "4"
+            },
+            {
+                "name": "Сертифікація безпілотних літальних ап",
+                "short_name": "Сертифікація безпілотних літальних ап",
+                "lesson_time": "13:30 - 15:05",
+                "day": 3,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Михацький",
+                        "first_name": "О",
+                        "middle_name": "Ю"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "008",
+                "room_floor": "0"
+            },
+            {
+                "name": "Економіка авіаційного транспорту",
+                "short_name": "Економіка авіаційного транспорту",
+                "lesson_time": "09:50 - 11:25",
+                "day": 5,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "4",
+                "room_num": "201",
+                "room_floor": "2"
+            },
+            {
+                "name": "Безпека наземного обслуговування ПС",
+                "short_name": "Безпека наземного обслуговування ПС",
+                "lesson_time": "11:40 - 13:15",
+                "day": 5,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Довгаль",
+                        "first_name": "А",
+                        "middle_name": "Г"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "1",
+                "room_num": "335",
+                "room_floor": "3"
+            },
+            {
+                "name": "Сертифікація безпілотних літальних ап",
+                "short_name": "Сертифікація безпілотних літальних ап",
+                "lesson_time": "13:30 - 15:05",
+                "day": 5,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Михацький",
+                        "first_name": "О",
+                        "middle_name": "Ю"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "11",
+                "room_num": "008",
+                "room_floor": "0"
+            },
+            {
+                "name": "Принципи імплем тех БАС у вир пр ГД",
+                "short_name": "Принципи імплем тех БАС у вир пр ГД",
+                "lesson_time": "08:00 - 09:35",
+                "day": 8,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
                     }
                 ],
                 "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
+                "housing": "11",
+                "room_num": "320",
+                "room_floor": "3"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
+                "name": "Моделювання безпілотних авіац систем",
+                "short_name": "Моделювання безпілотних авіац систем",
+                "lesson_time": "09:50 - 11:25",
                 "day": 8,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
+                "room_num": "320",
+                "room_floor": "3"
             },
             {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
+                "name": "Сертифікація безпілотних літальних ап",
+                "short_name": "Сертифікація безпілотних літальних ап",
+                "lesson_time": "11:40 - 13:15",
+                "day": 8,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
+                        "last_name": "Михацький",
+                        "first_name": "О",
+                        "middle_name": "Ю"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "108",
+                "room_floor": "1"
+            },
+            {
+                "name": "Моделювання безпілотних авіац систем",
+                "short_name": "Моделювання безпілотних авіац систем",
+                "lesson_time": "08:00 - 09:35",
+                "day": 10,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "320",
+                "room_floor": "3"
+            },
+            {
+                "name": "Принципи імплем тех БАС у вир пр ГД",
+                "short_name": "Принципи імплем тех БАС у вир пр ГД",
+                "lesson_time": "09:50 - 11:25",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Браун",
+                        "first_name": "І",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "11",
+                "room_num": "315",
+                "room_floor": "3"
+            },
+            {
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "11:40 - 13:15",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Пазюра",
+                        "first_name": "Н",
                         "middle_name": "В"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "room_num": "415",
+                "room_floor": "4"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
+                "name": "Сертифікація безпілотних літальних ап",
+                "short_name": "Сертифікація безпілотних літальних ап",
                 "lesson_time": "09:50 - 11:25",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
+                "day": 11,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Михацький",
+                        "first_name": "О",
+                        "middle_name": "Ю"
                     }
                 ],
                 "weeks": 0,
                 "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "11:40 - 13:15",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
+                "room_num": "008",
                 "room_floor": "0"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "15:20 - 16:55",
+                "name": "Безпека наземного обслуговування ПС",
+                "short_name": "Безпека наземного обслуговування ПС",
+                "lesson_time": "11:40 - 13:15",
                 "day": 11,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Довгаль",
+                        "first_name": "А",
+                        "middle_name": "Г"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
+                "housing": "1",
+                "room_num": "335",
+                "room_floor": "3"
+            },
+            {
+                "name": "Економіка авіаційного транспорту",
+                "short_name": "Економіка авіаційного транспорту",
+                "lesson_time": "13:30 - 15:05",
+                "day": 11,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "3",
+                "room_num": "410",
+                "room_floor": "4"
             }
         ],
         "subgroups": "0",
         "teachers": [
             {
                 "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
+                "last_name": "Довгаль",
+                "first_name": "А",
+                "middle_name": "Г"
             },
             {
                 "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
+                "last_name": "Пазюра",
+                "first_name": "Н",
                 "middle_name": "В"
             },
             {
                 "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
+                "last_name": "Teacher for discipline Економіка авіаційного транспортуhasn't been set",
+                "first_name": "Teacher for discipline Економіка авіаційного транспортуhasn't been set",
+                "middle_name": "Teacher for discipline Економіка авіаційного транспортуhasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
+                "last_name": "Михацький",
+                "first_name": "О",
+                "middle_name": "Ю"
             },
             {
                 "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
-            },
-            {
-                "degree": "",
-                "last_name": "Глоба",
-                "first_name": "С",
-                "middle_name": "О"
+                "last_name": "Браун",
+                "first_name": "І",
+                "middle_name": "М"
             }
         ]
     },
     "ННІАП": {
-        "lessons": [
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "09:50 - 11:25",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вржесневський",
-                        "first_name": "І",
-                        "middle_name": "І"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "11:40 - 13:15",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
-                "room_floor": "0"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "15:20 - 16:55",
-                "day": 11,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            }
-        ],
+        "lessons": [],
         "subgroups": "0",
-        "teachers": [
-            {
-                "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
-            },
-            {
-                "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
-                "middle_name": "В"
-            },
-            {
-                "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
-            },
-            {
-                "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
-            },
-            {
-                "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
-            },
-            {
-                "degree": "",
-                "last_name": "Глоба",
-                "first_name": "С",
-                "middle_name": "О"
-            }
-        ]
+        "teachers": []
     },
     "ННІКІТ": {
         "lessons": [
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
+                "name": "Інженерні основи інженерії ПЗ",
+                "short_name": "Інженерні основи інженерії ПЗ",
                 "lesson_time": "08:00 - 09:35",
                 "day": 1,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Бєлозьорова",
+                        "first_name": "Я",
+                        "middle_name": "А"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
+                "housing": "6",
+                "room_num": "104",
+                "room_floor": "1"
             },
             {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "09:50 - 11:25",
+                "name": "Передові технології розр.і супр.ПЗ сис.",
+                "short_name": "Передові технології розр.і супр.ПЗ сис.",
+                "lesson_time": "13:30 - 15:05",
                 "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
+                "housing": "6",
                 "room_num": "311",
                 "room_floor": "3"
             },
             {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
+                "name": "Професійна іноземна мова",
+                "short_name": "Професійна іноземна мова",
+                "lesson_time": "11:40 - 13:15",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Денисенко",
+                        "first_name": "Н",
+                        "middle_name": "Г"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "1301",
+                "room_floor": "1"
+            },
+            {
+                "name": "Глобальна розробка ПЗ систем",
+                "short_name": "Глобальна розробка ПЗ систем",
+                "lesson_time": "13:30 - 15:05",
                 "day": 3,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
+                "housing": "6",
+                "room_num": "313",
+                "room_floor": "3"
             },
             {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
+                "name": "Культура інженерії ПЗ",
+                "short_name": "Культура інженерії ПЗ",
                 "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
+                "day": 4,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Гріненко",
+                        "first_name": "С",
+                        "middle_name": "А"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
+                "housing": "6",
+                "room_num": "110",
+                "room_floor": "1"
+            },
+            {
+                "name": "Інженерні основи інженерії ПЗ",
+                "short_name": "Інженерні основи інженерії ПЗ",
+                "lesson_time": "09:50 - 11:25",
+                "day": 4,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Поперешняк",
+                        "first_name": "С",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "6",
+                "room_num": "313",
+                "room_floor": "3"
+            },
+            {
+                "name": "Наукові комунікації у фаховій діяльності",
+                "short_name": "Наукові комунікації у фаховій діяльності",
+                "lesson_time": "11:40 - 13:15",
+                "day": 4,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "3",
+                "room_num": "215",
                 "room_floor": "2"
             },
             {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
+                "name": "Інженерні основи інженерії ПЗ",
+                "short_name": "Інженерні основи інженерії ПЗ",
+                "lesson_time": "08:00 - 09:35",
+                "day": 7,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Бєлозьорова",
+                        "first_name": "Я",
+                        "middle_name": "А"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "6",
+                "room_num": "104",
+                "room_floor": "1"
+            },
+            {
+                "name": "Культура інженерії ПЗ",
+                "short_name": "Культура інженерії ПЗ",
+                "lesson_time": "08:00 - 09:35",
                 "day": 8,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Вржесневський",
-                        "first_name": "І",
-                        "middle_name": "І"
+                        "last_name": "Гріненко",
+                        "first_name": "С",
+                        "middle_name": "А"
                     }
                 ],
                 "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
+                "housing": "6",
+                "room_num": "110",
+                "room_floor": "1"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
+                "name": "Передові технології розр.і супр.ПЗ сис.",
+                "short_name": "Передові технології розр.і супр.ПЗ сис.",
+                "lesson_time": "09:50 - 11:25",
                 "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
+                "housing": "6",
+                "room_num": "313",
                 "room_floor": "3"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
+                "name": "Наукові комунікації у фаховій діяльності",
+                "short_name": "Наукові комунікації у фаховій діяльності",
                 "lesson_time": "11:40 - 13:15",
-                "day": 10,
+                "day": 8,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
+                "housing": "4",
+                "room_num": "203",
+                "room_floor": "2"
+            },
+            {
+                "name": "Основи наукових досліджень",
+                "short_name": "Основи наукових досліджень",
+                "lesson_time": "11:40 - 13:15",
+                "day": 9,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
+            },
+            {
+                "name": "Основи наукових досліджень",
+                "short_name": "Основи наукових досліджень",
+                "lesson_time": "13:30 - 15:05",
+                "day": 9,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "6",
                 "room_num": "311",
                 "room_floor": "3"
             },
             {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
-                "room_floor": "0"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
+                "name": "Професійна іноземна мова",
+                "short_name": "Професійна іноземна мова",
                 "lesson_time": "15:20 - 16:55",
-                "day": 11,
+                "day": 9,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Денисенко",
+                        "first_name": "Н",
+                        "middle_name": "Г"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
+                "housing": "8",
+                "room_num": "1301",
+                "room_floor": "1"
             }
         ],
         "subgroups": "0",
         "teachers": [
             {
                 "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
+                "last_name": "Teacher for discipline Основи наукових дослідженьhasn't been set",
+                "first_name": "Teacher for discipline Основи наукових дослідженьhasn't been set",
+                "middle_name": "Teacher for discipline Основи наукових дослідженьhasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
+                "last_name": "Teacher for discipline Глобальна розробка ПЗ системhasn't been set",
+                "first_name": "Teacher for discipline Глобальна розробка ПЗ системhasn't been set",
+                "middle_name": "Teacher for discipline Глобальна розробка ПЗ системhasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
-                "middle_name": "В"
+                "last_name": "Teacher for discipline Передові технології розр.і супр.ПЗ сис.hasn't been set",
+                "first_name": "Teacher for discipline Передові технології розр.і супр.ПЗ сис.hasn't been set",
+                "middle_name": "Teacher for discipline Передові технології розр.і супр.ПЗ сис.hasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Сенчило",
+                "last_name": "Денисенко",
                 "first_name": "Н",
-                "middle_name": "О"
+                "middle_name": "Г"
             },
             {
                 "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
-            },
-            {
-                "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
-            },
-            {
-                "degree": "",
-                "last_name": "Глоба",
+                "last_name": "Гріненко",
                 "first_name": "С",
-                "middle_name": "О"
+                "middle_name": "А"
+            },
+            {
+                "degree": "",
+                "last_name": "Бєлозьорова",
+                "first_name": "Я",
+                "middle_name": "А"
+            },
+            {
+                "degree": "",
+                "last_name": "Teacher for discipline Наукові комунікації у фаховій діяльностіhasn't been set",
+                "first_name": "Teacher for discipline Наукові комунікації у фаховій діяльностіhasn't been set",
+                "middle_name": "Teacher for discipline Наукові комунікації у фаховій діяльностіhasn't been set"
+            },
+            {
+                "degree": "",
+                "last_name": "Поперешняк",
+                "first_name": "С",
+                "middle_name": "В"
             }
         ]
     },
     "ННІМВ": {
         "lessons": [
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
+                "name": "Господарське право України",
+                "short_name": "Господарське право України",
                 "lesson_time": "09:50 - 11:25",
                 "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Драчов",
+                        "first_name": "О",
+                        "middle_name": "В"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
+                "housing": "7",
+                "room_num": "313",
                 "room_floor": "3"
             },
             {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
+                "name": "Регіональний розвиток туризму",
+                "short_name": "Регіональний розвиток туризму",
+                "lesson_time": "08:00 - 09:35",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Руднєва",
+                        "first_name": "М",
+                        "middle_name": "Г"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Регіональний розвиток туризму",
+                "short_name": "Регіональний розвиток туризму",
                 "lesson_time": "09:50 - 11:25",
                 "day": 3,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
+                        "last_name": "Балабанов",
+                        "first_name": "Г",
                         "middle_name": "В"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
+                "name": "Міжнародний туристичний бізнес",
+                "short_name": "Міжнародний туристичний бізнес",
                 "lesson_time": "11:40 - 13:15",
                 "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Пестушко",
+                        "first_name": "В",
+                        "middle_name": "Ю"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Актуальні проблеми нац.ринку тур.посл",
+                "short_name": "Актуальні проблеми нац.ринку тур.посл",
+                "lesson_time": "08:00 - 09:35",
+                "day": 4,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
+                        "last_name": "Борисюк",
+                        "first_name": "О",
+                        "middle_name": "А"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
+                "name": "Актуальні проблеми нац.ринку тур.посл",
+                "short_name": "Актуальні проблеми нац.ринку тур.посл",
+                "lesson_time": "09:50 - 11:25",
+                "day": 4,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Борисюк",
+                        "first_name": "О",
+                        "middle_name": "А"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Управління проектами в туризмі*",
+                "short_name": "Управління проектами в туризмі*",
+                "lesson_time": "11:40 - 13:15",
+                "day": 4,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Уварова",
+                        "first_name": "Г",
+                        "middle_name": "Ш"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Інноваційні технології в туризмі",
+                "short_name": "Інноваційні технології в туризмі",
                 "lesson_time": "08:00 - 09:35",
                 "day": 5,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Ткачук",
+                        "first_name": "Л",
+                        "middle_name": "М"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
+                "name": "Інноваційні технології в туризмі",
+                "short_name": "Інноваційні технології в туризмі",
                 "lesson_time": "09:50 - 11:25",
                 "day": 5,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Ткачук",
+                        "first_name": "Л",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Актуальні проблеми права ЄС",
+                "short_name": "Актуальні проблеми права ЄС",
+                "lesson_time": "11:40 - 13:15",
+                "day": 5,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
+                "housing": "7",
+                "room_num": "314",
                 "room_floor": "3"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вржесневський",
-                        "first_name": "І",
-                        "middle_name": "І"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
+                "name": "Управління проектами в туризмі*",
+                "short_name": "Управління проектами в туризмі*",
                 "lesson_time": "08:00 - 09:35",
-                "day": 9,
+                "day": 8,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
+                        "last_name": "Уварова",
+                        "first_name": "Г",
+                        "middle_name": "Ш"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Управління проектами в туризмі*",
+                "short_name": "Управління проектами в туризмі*",
+                "lesson_time": "09:50 - 11:25",
+                "day": 8,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Уварова",
+                        "first_name": "Г",
+                        "middle_name": "Ш"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Міжнародний комерційний арбітраж",
+                "short_name": "Міжнародний комерційний арбітраж",
+                "lesson_time": "11:40 - 13:15",
+                "day": 8,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Буроменський",
+                        "first_name": "М",
                         "middle_name": "В"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
+                "housing": "7",
+                "room_num": "313",
                 "room_floor": "3"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "08:00 - 09:35",
+                "day": 9,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Василишина",
+                        "first_name": "Н",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "7",
+                "room_num": "107",
+                "room_floor": "1"
+            },
+            {
+                "name": "Міжнародний туристичний бізнес",
+                "short_name": "Міжнародний туристичний бізнес",
                 "lesson_time": "09:50 - 11:25",
                 "day": 9,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Пестушко",
+                        "first_name": "В",
+                        "middle_name": "Ю"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
+                "name": "Міжнародний туристичний бізнес",
+                "short_name": "Міжнародний туристичний бізнес",
+                "lesson_time": "11:40 - 13:15",
+                "day": 9,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
+                        "last_name": "Пестушко",
+                        "first_name": "В",
+                        "middle_name": "Ю"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
+                "name": "Методологія та організація наук дослід",
+                "short_name": "Методологія та організація наук дослід",
                 "lesson_time": "09:50 - 11:25",
                 "day": 10,
                 "format": "lecture",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
+                        "last_name": "Балабанов",
+                        "first_name": "Г",
+                        "middle_name": "В"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
+                "name": "Методологія та організація наук дослід",
+                "short_name": "Методологія та організація наук дослід",
                 "lesson_time": "11:40 - 13:15",
                 "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
-                "room_floor": "0"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "15:20 - 16:55",
-                "day": 11,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
+                        "last_name": "Балабанов",
                         "first_name": "Г",
-                        "middle_name": "Б"
+                        "middle_name": "В"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
+                "housing": "7",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Актуальні проблеми нац.ринку тур.посл",
+                "short_name": "Актуальні проблеми нац.ринку тур.посл",
+                "lesson_time": "13:30 - 15:05",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Борисюк",
+                        "first_name": "О",
+                        "middle_name": "А"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "7",
+                "room_num": "401",
+                "room_floor": "4"
+            },
+            {
+                "name": "Міжнародні комерційні угоди",
+                "short_name": "Міжнародні комерційні угоди",
+                "lesson_time": "08:00 - 09:35",
+                "day": 11,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "7",
+                "room_num": "314",
+                "room_floor": "3"
             }
         ],
         "subgroups": "0",
         "teachers": [
             {
                 "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
+                "last_name": "Василишина",
+                "first_name": "Н",
+                "middle_name": "М"
             },
             {
                 "degree": "",
-                "last_name": "Бордюг",
+                "last_name": "Ткачук",
+                "first_name": "Л",
+                "middle_name": "М"
+            },
+            {
+                "degree": "",
+                "last_name": "Борисюк",
+                "first_name": "О",
+                "middle_name": "А"
+            },
+            {
+                "degree": "",
+                "last_name": "Балабанов",
                 "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
                 "middle_name": "В"
             },
             {
                 "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
+                "last_name": "Teacher for discipline Актуальні проблеми права ЄСhasn't been set",
+                "first_name": "Teacher for discipline Актуальні проблеми права ЄСhasn't been set",
+                "middle_name": "Teacher for discipline Актуальні проблеми права ЄСhasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
+                "last_name": "Драчов",
+                "first_name": "О",
+                "middle_name": "В"
             },
             {
                 "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
+                "last_name": "Пестушко",
+                "first_name": "В",
+                "middle_name": "Ю"
             },
             {
                 "degree": "",
-                "last_name": "Глоба",
-                "first_name": "С",
-                "middle_name": "О"
+                "last_name": "Уварова",
+                "first_name": "Г",
+                "middle_name": "Ш"
+            },
+            {
+                "degree": "",
+                "last_name": "Буроменський",
+                "first_name": "М",
+                "middle_name": "В"
+            },
+            {
+                "degree": "",
+                "last_name": "Teacher for discipline Міжнародні комерційні угодиhasn't been set",
+                "first_name": "Teacher for discipline Міжнародні комерційні угодиhasn't been set",
+                "middle_name": "Teacher for discipline Міжнародні комерційні угодиhasn't been set"
+            },
+            {
+                "degree": "",
+                "last_name": "Руднєва",
+                "first_name": "М",
+                "middle_name": "Г"
             }
         ]
     },
     "ННАКІ": {
-        "lessons": [
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "09:50 - 11:25",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вржесневський",
-                        "first_name": "І",
-                        "middle_name": "І"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "11:40 - 13:15",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
-                "room_floor": "0"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "15:20 - 16:55",
-                "day": 11,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            }
-        ],
+        "lessons": [],
         "subgroups": "0",
-        "teachers": [
-            {
-                "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
-            },
-            {
-                "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
-                "middle_name": "В"
-            },
-            {
-                "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
-            },
-            {
-                "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
-            },
-            {
-                "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
-            },
-            {
-                "degree": "",
-                "last_name": "Глоба",
-                "first_name": "С",
-                "middle_name": "О"
-            }
-        ]
+        "teachers": []
     },
     "ННГМІ": {
         "lessons": [
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
                 "lesson_time": "09:50 - 11:25",
                 "day": 1,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
+                        "last_name": "Гринюк",
+                        "first_name": "С",
+                        "middle_name": "П"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
+                "housing": "8",
+                "room_num": "1501",
+                "room_floor": "1"
+            },
+            {
+                "name": "Психологія кризових та залежних станів",
+                "short_name": "Психологія кризових та залежних станів",
+                "lesson_time": "11:40 - 13:15",
+                "day": 1,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "1",
+                "room_num": "209",
                 "room_floor": "2"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 2,
-                "format": "lecture",
+                "name": "Психологія міжкультурних комунікацій",
+                "short_name": "Психологія міжкультурних комунікацій",
+                "lesson_time": "13:30 - 15:05",
+                "day": 1,
+                "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
+                        "last_name": "Барановська",
+                        "first_name": "Л",
                         "middle_name": "В"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
+                "housing": "8",
+                "room_num": "601",
+                "room_floor": "6"
             },
             {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
-                "lesson_time": "11:40 - 13:15",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вржесневський",
-                        "first_name": "І",
-                        "middle_name": "І"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "11:40 - 13:15",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
-                "room_floor": "0"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
+                "name": "Психологія та педагогіка вищої школи",
+                "short_name": "Психологія та педагогіка вищої школи",
                 "lesson_time": "15:20 - 16:55",
-                "day": 11,
+                "day": 1,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Рахманов",
+                        "first_name": "В",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "1203",
+                "room_floor": "1"
+            },
+            {
+                "name": "Психологія лідерства",
+                "short_name": "Психологія лідерства",
+                "lesson_time": "09:50 - 11:25",
+                "day": 3,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дробот",
+                        "first_name": "О",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "701",
+                "room_floor": "7"
+            },
+            {
+                "name": "Когнітивна психологія",
+                "short_name": "Когнітивна психологія",
+                "lesson_time": "11:40 - 13:15",
+                "day": 3,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Дробот",
+                        "first_name": "О",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "701",
+                "room_floor": "7"
+            },
+            {
+                "name": "Психологія лідерства",
+                "short_name": "Психологія лідерства",
+                "lesson_time": "13:30 - 15:05",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дробот",
+                        "first_name": "О",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "701",
+                "room_floor": "7"
+            },
+            {
+                "name": "Психологія кризових та залежних станів",
+                "short_name": "Психологія кризових та залежних станів",
+                "lesson_time": "11:40 - 13:15",
+                "day": 4,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "1",
+                "room_num": "209",
+                "room_floor": "2"
+            },
+            {
+                "name": "Психологія та педагогіка вищої школи",
+                "short_name": "Психологія та педагогіка вищої школи",
+                "lesson_time": "13:30 - 15:05",
+                "day": 4,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Рахманов",
+                        "first_name": "В",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "1203",
+                "room_floor": "1"
+            },
+            {
+                "name": "Теоретико-методологічні проблеми пс.",
+                "short_name": "Теоретико-методологічні проблеми пс.",
+                "lesson_time": "15:20 - 16:55",
+                "day": 4,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "1203",
+                "room_floor": "1"
+            },
+            {
+                "name": "Психологія кризових та залежних станів",
+                "short_name": "Психологія кризових та залежних станів",
+                "lesson_time": "11:40 - 13:15",
+                "day": 7,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
+                "housing": "1",
+                "room_num": "209",
                 "room_floor": "2"
+            },
+            {
+                "name": "Психологія міжкультурних комунікацій",
+                "short_name": "Психологія міжкультурних комунікацій",
+                "lesson_time": "13:30 - 15:05",
+                "day": 7,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Барановська",
+                        "first_name": "Л",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "702",
+                "room_floor": "7"
+            },
+            {
+                "name": "Психологія лідерства",
+                "short_name": "Психологія лідерства",
+                "lesson_time": "09:50 - 11:25",
+                "day": 9,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дробот",
+                        "first_name": "О",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "808",
+                "room_floor": "8"
+            },
+            {
+                "name": "Когнітивна психологія",
+                "short_name": "Когнітивна психологія",
+                "lesson_time": "11:40 - 13:15",
+                "day": 9,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дробот",
+                        "first_name": "О",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "808",
+                "room_floor": "8"
+            },
+            {
+                "name": "Психологія лідерства",
+                "short_name": "Психологія лідерства",
+                "lesson_time": "13:30 - 15:05",
+                "day": 9,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дробот",
+                        "first_name": "О",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "808",
+                "room_floor": "8"
+            },
+            {
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "11:40 - 13:15",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Гринюк",
+                        "first_name": "С",
+                        "middle_name": "П"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "1501",
+                "room_floor": "1"
+            },
+            {
+                "name": "Психологія кризових та залежних станів",
+                "short_name": "Психологія кризових та залежних станів",
+                "lesson_time": "13:30 - 15:05",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "1",
+                "room_num": "209",
+                "room_floor": "2"
+            },
+            {
+                "name": "Теоретико-методологічні проблеми пс.",
+                "short_name": "Теоретико-методологічні проблеми пс.",
+                "lesson_time": "15:20 - 16:55",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Not set",
+                        "first_name": "Not set",
+                        "middle_name": "Not set"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "1203",
+                "room_floor": "1"
             }
         ],
         "subgroups": "0",
         "teachers": [
             {
                 "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
-            },
-            {
-                "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
-                "first_name": "В",
+                "last_name": "Барановська",
+                "first_name": "Л",
                 "middle_name": "В"
             },
             {
                 "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
+                "last_name": "Teacher for discipline Психологія кризових та залежних станівhasn't been set",
+                "first_name": "Teacher for discipline Психологія кризових та залежних станівhasn't been set",
+                "middle_name": "Teacher for discipline Психологія кризових та залежних станівhasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
+                "last_name": "Teacher for discipline Теоретико-методологічні проблеми пс.hasn't been set",
+                "first_name": "Teacher for discipline Теоретико-методологічні проблеми пс.hasn't been set",
+                "middle_name": "Teacher for discipline Теоретико-методологічні проблеми пс.hasn't been set"
             },
             {
                 "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
-            },
-            {
-                "degree": "",
-                "last_name": "Глоба",
+                "last_name": "Гринюк",
                 "first_name": "С",
+                "middle_name": "П"
+            },
+            {
+                "degree": "",
+                "last_name": "Дробот",
+                "first_name": "О",
+                "middle_name": "В"
+            },
+            {
+                "degree": "",
+                "last_name": "Рахманов",
+                "first_name": "В",
                 "middle_name": "О"
             }
         ]
@@ -2606,371 +1935,378 @@
     "ФТТ": {
         "lessons": [
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "09:50 - 11:25",
-                "day": 1,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
+                "name": "Основи патентознавства",
+                "short_name": "Основи патентознавства",
                 "lesson_time": "11:40 - 13:15",
-                "day": 2,
-                "format": "lecture",
+                "day": 1,
+                "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "09:50 - 11:25",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
+                        "last_name": "Бєлан",
                         "first_name": "В",
                         "middle_name": "В"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "11:40 - 13:15",
-                "day": 3,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
+                "housing": "2",
+                "room_num": "320",
                 "room_floor": "3"
             },
             {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 5,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 1,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "11:40 - 13:15",
-                "day": 5,
+                "name": "Основи патентознавства",
+                "short_name": "Основи патентознавства",
+                "lesson_time": "13:30 - 15:05",
+                "day": 1,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Бєлан",
+                        "first_name": "В",
+                        "middle_name": "В"
                     }
                 ],
                 "weeks": 1,
-                "housing": "11",
-                "room_num": "214",
+                "housing": "2",
+                "room_num": "407",
+                "room_floor": "4"
+            },
+            {
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
+                "lesson_time": "15:20 - 16:55",
+                "day": 1,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Лисак",
+                        "first_name": "О",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "1303",
+                "room_floor": "1"
+            },
+            {
+                "name": "Господарська діял підпр ав.спецпризн.",
+                "short_name": "Господарська діял підпр ав.спецпризн.",
+                "lesson_time": "13:30 - 15:05",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
+            },
+            {
+                "name": "Управління проектами авіації спецприз.",
+                "short_name": "Управління проектами авіації спецприз.",
+                "lesson_time": "15:20 - 16:55",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
+            },
+            {
+                "name": "Управління проектами авіації спецприз.",
+                "short_name": "Управління проектами авіації спецприз.",
+                "lesson_time": "17:10 - 18:45",
+                "day": 3,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
+            },
+            {
+                "name": "Авіаційний транспорт і екологія",
+                "short_name": "Авіаційний транспорт і екологія",
+                "lesson_time": "09:50 - 11:25",
+                "day": 4,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дмитруха",
+                        "first_name": "Т",
+                        "middle_name": "І"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "3",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Основи обробки цифрових простор.дан.",
+                "short_name": "Основи обробки цифрових простор.дан.",
+                "lesson_time": "11:40 - 13:15",
+                "day": 4,
+                "format": "lecture",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Бєлан",
+                        "first_name": "В",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "2",
+                "room_num": "120",
+                "room_floor": "1"
+            },
+            {
+                "name": "Наукова організація праці",
+                "short_name": "Наукова організація праці",
+                "lesson_time": "13:30 - 15:05",
+                "day": 4,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Рева",
+                        "first_name": "О",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 1,
+                "housing": "2",
+                "room_num": "309",
+                "room_floor": "3"
+            },
+            {
+                "name": "Наукова організація праці",
+                "short_name": "Наукова організація праці",
+                "lesson_time": "09:50 - 11:25",
+                "day": 8,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Рева",
+                        "first_name": "О",
+                        "middle_name": "М"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "3",
+                "room_num": "207",
                 "room_floor": "2"
             },
             {
-                "name": "Фізичне виховання",
-                "short_name": "Фізичне виховання",
+                "name": "Основи обробки цифрових простор.дан.",
+                "short_name": "Основи обробки цифрових простор.дан.",
                 "lesson_time": "11:40 - 13:15",
                 "day": 8,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Вржесневський",
-                        "first_name": "І",
+                        "last_name": "Бєлан",
+                        "first_name": "В",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "2",
+                "room_num": "320",
+                "room_floor": "3"
+            },
+            {
+                "name": "Господарська діял підпр ав.спецпризн.",
+                "short_name": "Господарська діял підпр ав.спецпризн.",
+                "lesson_time": "13:30 - 15:05",
+                "day": 8,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "3",
+                "room_num": "207",
+                "room_floor": "2"
+            },
+            {
+                "name": "Основи патентознавства",
+                "short_name": "Основи патентознавства",
+                "lesson_time": "11:40 - 13:15",
+                "day": 9,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Бєлан",
+                        "first_name": "В",
+                        "middle_name": "В"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "3",
+                "room_num": "105",
+                "room_floor": "1"
+            },
+            {
+                "name": "Авіаційний транспорт і екологія",
+                "short_name": "Авіаційний транспорт і екологія",
+                "lesson_time": "13:30 - 15:05",
+                "day": 9,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Дмитруха",
+                        "first_name": "Т",
                         "middle_name": "І"
                     }
                 ],
                 "weeks": 0,
-                "housing": "C/K",
-                "room_num": "",
-                "room_floor": ""
+                "housing": "3",
+                "room_num": "105",
+                "room_floor": "1"
             },
             {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "13:30 - 15:05",
-                "day": 8,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "004",
-                "room_floor": "0"
-            },
-            {
-                "name": "Інформаційні технології та осн програм",
-                "short_name": "Інформаційні технології та осн програм",
-                "lesson_time": "08:00 - 09:35",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Бичков",
-                        "first_name": "В",
-                        "middle_name": "В"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 9,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Вища математика",
-                "short_name": "Вища математика",
-                "lesson_time": "08:00 - 09:35",
-                "day": 10,
-                "format": "practice",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Глоба",
-                        "first_name": "С",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
-                "lesson_time": "09:50 - 11:25",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Рудницька",
-                        "first_name": "Ж",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Історія та культура України",
-                "short_name": "Історія та культура України",
-                "lesson_time": "11:40 - 13:15",
-                "day": 10,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Сенчило",
-                        "first_name": "Н",
-                        "middle_name": "О"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "311",
-                "room_floor": "3"
-            },
-            {
-                "name": "Комп'ютерна графіка",
-                "short_name": "Комп'ютерна графіка",
-                "lesson_time": "13:30 - 15:05",
-                "day": 11,
-                "format": "lecture",
-                "teachers": [
-                    {
-                        "degree": "",
-                        "last_name": "Вишневська",
-                        "first_name": "Н",
-                        "middle_name": "С"
-                    }
-                ],
-                "weeks": 0,
-                "housing": "11",
-                "room_num": "005",
-                "room_floor": "0"
-            },
-            {
-                "name": "Фізика",
-                "short_name": "Фізика",
+                "name": "Ділова іноземна мова",
+                "short_name": "Ділова іноземна мова",
                 "lesson_time": "15:20 - 16:55",
-                "day": 11,
+                "day": 9,
                 "format": "practice",
                 "teachers": [
                     {
                         "degree": "",
-                        "last_name": "Бордюг",
-                        "first_name": "Г",
-                        "middle_name": "Б"
+                        "last_name": "Лисак",
+                        "first_name": "О",
+                        "middle_name": "М"
                     }
                 ],
                 "weeks": 0,
-                "housing": "11",
-                "room_num": "214",
-                "room_floor": "2"
+                "housing": "8",
+                "room_num": "1303",
+                "room_floor": "1"
+            },
+            {
+                "name": "Управління проектами авіації спецприз.",
+                "short_name": "Управління проектами авіації спецприз.",
+                "lesson_time": "13:30 - 15:05",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
+            },
+            {
+                "name": "Господарська діял підпр ав.спецпризн.",
+                "short_name": "Господарська діял підпр ав.спецпризн.",
+                "lesson_time": "15:20 - 16:55",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
+            },
+            {
+                "name": "Управління проектами авіації спецприз.",
+                "short_name": "Управління проектами авіації спецприз.",
+                "lesson_time": "17:10 - 18:45",
+                "day": 10,
+                "format": "practice",
+                "teachers": [
+                    {
+                        "degree": "",
+                        "last_name": "Соловйова",
+                        "first_name": "О",
+                        "middle_name": "О"
+                    }
+                ],
+                "weeks": 0,
+                "housing": "8",
+                "room_num": "604",
+                "room_floor": "6"
             }
         ],
         "subgroups": "0",
         "teachers": [
             {
                 "degree": "",
-                "last_name": "Вржесневський",
-                "first_name": "І",
-                "middle_name": "І"
+                "last_name": "Лисак",
+                "first_name": "О",
+                "middle_name": "М"
             },
             {
                 "degree": "",
-                "last_name": "Бордюг",
-                "first_name": "Г",
-                "middle_name": "Б"
-            },
-            {
-                "degree": "",
-                "last_name": "Бичков",
+                "last_name": "Бєлан",
                 "first_name": "В",
                 "middle_name": "В"
             },
             {
                 "degree": "",
-                "last_name": "Сенчило",
-                "first_name": "Н",
-                "middle_name": "О"
+                "last_name": "Рева",
+                "first_name": "О",
+                "middle_name": "М"
             },
             {
                 "degree": "",
-                "last_name": "Рудницька",
-                "first_name": "Ж",
-                "middle_name": "О"
+                "last_name": "Дмитруха",
+                "first_name": "Т",
+                "middle_name": "І"
             },
             {
                 "degree": "",
-                "last_name": "Вишневська",
-                "first_name": "Н",
-                "middle_name": "С"
-            },
-            {
-                "degree": "",
-                "last_name": "Глоба",
-                "first_name": "С",
+                "last_name": "Соловйова",
+                "first_name": "О",
                 "middle_name": "О"
             }
         ]
